@@ -21,16 +21,9 @@
 
 ## 실습 산출물
 
-![스크린샷 2024-01-11 232200](https://github.com/JeongMinIsBest/2024-Kotlin-Based-Android-Mobility-Application-Development/assets/105098123/7500369b-3614-4114-a737-ce9631e4e09a)
+![슬라이드1](https://github.com/JeongMinIsBest/2024-Kotlin-Based-Android-Mobility-Application-Development/assets/105098123/22305bc3-fbd2-4e92-815f-66a07b51d4cd)
 
-![스크린샷 2024-01-11 232314](https://github.com/JeongMinIsBest/2024-Kotlin-Based-Android-Mobility-Application-Development/assets/105098123/a41fc76b-4c86-4f62-bc6a-feabf7876234)
+![슬라이드2](https://github.com/JeongMinIsBest/2024-Kotlin-Based-Android-Mobility-Application-Development/assets/105098123/65984435-fccc-41ae-ad27-f7afc284dda2)
 
-![스크린샷 2024-01-11 232332](https://github.com/JeongMinIsBest/2024-Kotlin-Based-Android-Mobility-Application-Development/assets/105098123/66e0df2b-0c48-4784-bb33-27a478fa072b)
+![슬라이드3](https://github.com/JeongMinIsBest/2024-Kotlin-Based-Android-Mobility-Application-Development/assets/105098123/1a40e50c-a263-49be-af25-cd0f0544d52e)
 
-![스크린샷 2024-01-11 232405](https://github.com/JeongMinIsBest/2024-Kotlin-Based-Android-Mobility-Application-Development/assets/105098123/f6fceade-f42a-4641-b9e0-b8cc8f2ed9c8)
-
-![스크린샷 2024-01-11 232428](https://github.com/JeongMinIsBest/2024-Kotlin-Based-Android-Mobility-Application-Development/assets/105098123/736b9d97-3315-4bc3-ab23-f82f3b0a8fae)
-
-![스크린샷 2024-01-11 233447](https://github.com/JeongMinIsBest/2024-Kotlin-Based-Android-Mobility-Application-Development/assets/105098123/3f8eab72-bbde-43dd-b2ed-eebc9ed03e45)
-
-![스크린샷 2024-01-11 233455](https://github.com/JeongMinIsBest/2024-Kotlin-Based-Android-Mobility-Application-Development/assets/105098123/53bb8be4-9a4e-497e-a412-b9f07efd4009)
