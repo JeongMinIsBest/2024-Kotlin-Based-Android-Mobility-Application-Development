@@ -1,7 +1,7 @@
 # 2024-Kotlin-based-Android-Mobility-Application-Development
 2024 Kotlin based Android Mobility Application Development 🚗
 
-2024년 1월 8일 ~ 1월 12일에 진행된 2024 스마트 모빌리티 전문가 양성 과정 개발 내역입니다.
+2024년 1월 8일 ~ 1월 12일에 진행된 2024 스마트 모빌리티 전문가 양성 과정 실습 내역입니다.
 
 ## 실습 개요
 
